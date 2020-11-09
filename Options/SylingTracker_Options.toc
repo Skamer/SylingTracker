@@ -1,0 +1,10 @@
+## Interface: 90001
+## Title: SylingTracker_Options
+## Version: 1.0.0
+## Author: Skamer
+## Dependencies: SylingTracker
+### LoadOnDemand: 1
+
+UI\__load.xml
+
+SylingTracker_Options.lua

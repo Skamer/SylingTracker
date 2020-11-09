@@ -1,0 +1,72 @@
+-------------------------------------------------------------------------------
+File: close.blp 
+License: Apache 2.0
+License URL: https://www.apache.org/licenses/LICENSE-2.0
+Author: Google
+Source: https://materialdesignicons.com/
+SourceName: close 
+Modications: Converted to BLP format
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+File: contents.blp 
+License: Apache 2.0
+License URL: https://www.apache.org/licenses/LICENSE-2.0
+Author: Austin Andrews
+Source: https://materialdesignicons.com/
+Source Icon Name: oci
+Modications: Converted to BLP format
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+File: filters.blp 
+License: Apache 2.0
+License URL: https://www.apache.org/licenses/LICENSE-2.0
+Author: Austin Andrews
+Source: https://materialdesignicons.com/
+Source Icon Name: filter
+Modications: Converted to BLP format
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+File: profils.blp 
+License: Apache 2.0
+License URL: https://www.apache.org/licenses/LICENSE-2.0
+Author: Simran
+Source: https://materialdesignicons.com/
+Source Icon Name: file-cog-outline
+Modications: Converted to BLP format
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+File: scripts.blp 
+License: Apache 2.0
+License URL: https://www.apache.org/licenses/LICENSE-2.0
+Author: Michael Irigoyen
+Source: https://materialdesignicons.com/
+Source Icon Name: script
+Modications: Converted to BLP format
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+File: skins.blp 
+License: Apache 2.0
+License URL: https://www.apache.org/licenses/LICENSE-2.0
+Author: Google
+Source: https://materialdesignicons.com/
+Source Icon Name: palette
+Modications: Converted to BLP format
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+File: trackers.blp
+License: Apache 2.0
+License URL: https://www.apache.org/licenses/LICENSE-2.0
+Author: Google
+Source: https://materialdesignicons.com/
+Source Icon Name: radar
+Modications: Converted to BLP format
+-------------------------------------------------------------------------------
+
+
